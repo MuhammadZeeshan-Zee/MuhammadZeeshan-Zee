@@ -43,26 +43,76 @@
 
 ## 👨‍💻 About Me  
 
-🚀 **Full Stack Developer** with deep experience in **MERN, Next.js, and modern cloud architecture**.  
-I love building **SaaS products, AI-powered tools, and scalable web platforms** that actually solve real business problems.  
+🚀 I'm a **Full Stack Developer** specializing in **MERN, Next.js, and modern cloud architecture**, passionate about building high-performance web platforms and scalable **SaaS applications** that drive real business impact.  
 
-🧠 I enjoy blending clean architecture with automation — using **AI agents**, **LangChain**, and **n8n** for smarter, faster systems.  
+💡 I combine clean, maintainable code with intelligent automation — leveraging tools like **LangChain**, **n8n**, and **AI agents** to streamline workflows, reduce development time, and enhance product efficiency.  
+
+⚙️ Whether it’s architecting robust backends, integrating AI, or crafting seamless user experiences, I focus on delivering solutions that are **fast, scalable, and built to last**.
 
 ---
 
 ## 🧩 Featured Projects  
 
-### 🛰️ [Bravt Cloud](https://bravtcloud.com)  
-**SaaS Hosting Platform** – Cloud platform with real-time server monitoring, Stripe billing, and automated provisioning.  
-
-### ⚙️ [Everstar.ai](https://everstar.ai)  
-**AI Compliance Platform** – AI agents for automating nuclear compliance, reducing manual processes by 80%.  
-
-### 💬 Glory  
-**AI Business Assistant** – NLP-powered automation assistant for CRM, task scheduling, and smart analytics.  
-
-### 🌍 [SailAway](https://www.sailaway.co/) | [Faraway Yachting](https://www.faraway-yachting.com/) | [SquirrelEdu](https://squirreledu.co/)  
-High-quality **Next.js/React** websites with advanced UI, booking logic, and real-time dashboards.  
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛰️ <a href="https://bravtcloud.com">Bravt Cloud</a></h3>
+      <p>
+        <strong>SaaS Cloud Hosting Platform</strong> – Built a full-featured cloud hosting solution similar to DigitalOcean.  
+        Implemented <strong>real-time server monitoring</strong>, <strong>Stripe billing</strong>, and <strong>automated provisioning</strong> using modern MERN architecture.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>⚙️ <a href="https://everstar.ai">Everstar.ai</a></h3>
+      <p>
+        <strong>AI-Powered Compliance Platform</strong> – Automated complex nuclear compliance workflows using AI agents.  
+        Reduced manual operations by <strong>80%</strong> through <strong>LangChain</strong> automation and intelligent document parsing.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💬 Glory</h3>
+      <p>
+        <strong>AI Business Assistant</strong> – Developed a conversational AI system with NLP and automation capabilities.  
+        Handles <strong>CRM integration</strong>, <strong>lead qualification</strong>, and <strong>real-time insights</strong> for enterprise clients.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🌍 Frontend Projects</h3>
+      <p>
+        <a href="https://www.sailaway.co/">SailAway</a> • 
+        <a href="https://www.faraway-yachting.com/">Faraway Yachting</a> • 
+        <a href="https://squirreledu.co/">SquirrelEdu</a>  
+      </p>
+      <p>
+        Built highly interactive and responsive <strong>Next.js</strong> web apps featuring real-time booking, multi-language support, and dynamic dashboards.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
