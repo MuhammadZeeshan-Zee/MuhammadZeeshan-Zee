@@ -3,9 +3,14 @@
 <h3 align="center">🚀 Full Stack Developer | SaaS & AI Web Apps | MERN / Next.js Specialist</h3>
 
 <p align="center">
-  <a href="mailto:zeeshan.bdo34101@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zeeshan.bdo34101@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+</a>
   <a href="https://github.com/MuhammadZeeshan-Zee"><img src="https://img.shields.io/github/followers/MuhammadZeeshan-Zee?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 ---
@@ -141,9 +146,14 @@
 ## 🌐 Let's Connect  
 
 <p align="center">
-  <a href="mailto:zeeshan.bdo34101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zeeshan.bdo34101@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://github.com/MuhammadZeeshan-Zee"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
   <a href="https://upwork.com/freelancers/~yourprofileid"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 
